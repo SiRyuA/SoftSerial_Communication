@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 
-SoftwareSerial mySerial(12, 13); // RX10 TX11
+SoftwareSerial mySerial(12, 13); // RX12 TX13
 
 String Message_read;
 boolean Message_end = false;
